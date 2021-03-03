@@ -32,7 +32,7 @@
     "node-sass-middleware": "^0.11.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "reflect-metadata": "^0.1.13",
     "sequelize": "^5.19.5",
     "sequelize-typescript": "^1.0.0"
